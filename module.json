@@ -3,7 +3,7 @@
   "title": "Hide Empty Spells",
   "description": "This module for the Pathfinder 2e system shows/hides empty spellbook sections with a button toggler at the bottom of the spellbook page.",
   "author": "slate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
   "scripts": [ 
@@ -16,7 +16,7 @@
   ],
   "url": "https://github.com/zarmstrong/hide-empty-spells",
   "manifest": "https://raw.githubusercontent.com/zarmstrong/hide-empty-spells/main/module.json",
-  "download": "https://github.com/zarmstrong/hide-empty-spells/releases/download/hide-empty-spells-0.1.0/hide-empty-spells-0.1.0.zip",
+  "download": "https://github.com/zarmstrong/hide-empty-spells/releases/download/hide-empty-spells-0.1.1/hide-empty-spells-0.1.1.zip",
   "license": "MIT",
   "readme": "https://github.com/zarmstrong/hide-empty-spells",
   "bugs": "https://github.com/zarmstrong/hide-empty-spells/issues",
