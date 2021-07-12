@@ -7,12 +7,12 @@ A  Foundry VTT module to hide empty spell sections in PF2e.
 
 **PF2e system version 2.9.1 or later is required.**
 
- ## To install
- In the add-on modules interface, click *Install Module*.  Paste the following URL into the field that reads *Manifest URL*: https://raw.githubusercontent.com/zarmstrong/hide-empty-spells/main/module.json
+## To install
+In the add-on modules interface, click *Install Module*.  Paste the following URL into the field that reads *Manifest URL*: https://raw.githubusercontent.com/zarmstrong/hide-empty-spells/main/module.json
 
- Or you can search for **Hide Empty Spells** in the *Filter Packages* field.  *(NOTE: this does not work yet, the module has been submitted for review. For now, you must install vial the manifest URL method above)*
+Or you can search for **Hide Empty Spells** in the *Filter Packages* field.  *(NOTE: this does not work yet, the module has been submitted for review. For now, you must install vial the manifest URL method above)*
 
- ## To use
+## To use
 Open a PC actor, go to the spellbook tab. Scroll to the bottom and click the button!
 
 
