@@ -1,4 +1,4 @@
-const debugHE = true;
+const debugHE = false;
 let hideEmpty = false;
 // message is the error message, level is the error level: 0 = info, 1 = warn, 2 = error
 function log(message, level=0) {
@@ -137,7 +137,7 @@ function hideEmptySpells(html) {
 				let numSpells = $(spellLevel[z])
 					.find("span.spell-max-input input")
 					.val();
-
+				log("Got Spells count of "+numSpells+ " for level "+z,2);
 				if (numSpells == "0") {
 					log(spellLevel[z],2);
 					$(spellLevel[z]).hide();
