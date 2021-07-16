@@ -145,6 +145,11 @@ function hideEmptySpells(html) {
 					$(spellLevel[z])
 						.nextUntil("item.inventory-header.spellbook-header")
 						.hide();
+				} else {
+					$(spellLevel[z]).show();
+					$(spellLevel[z])
+						.nextUntil("item.inventory-header.spellbook-header")
+						.show();
 				}
 			}
 		}
